@@ -1,0 +1,2 @@
+D:\Projects\WorkFlow Tools\Miller Columns\publish\MillerColumns.pdb
+D:\Projects\WorkFlow Tools\Miller Columns\publish\MillerColumns.exe

@@ -1,0 +1,44 @@
+D:\Projects\Miller Columns\bin\Debug\net8.0-windows\MillerColumns.exe
+D:\Projects\Miller Columns\bin\Debug\net8.0-windows\MillerColumns.deps.json
+D:\Projects\Miller Columns\bin\Debug\net8.0-windows\MillerColumns.runtimeconfig.json
+D:\Projects\Miller Columns\bin\Debug\net8.0-windows\MillerColumns.dll
+D:\Projects\Miller Columns\bin\Debug\net8.0-windows\MillerColumns.pdb
+D:\Projects\Miller Columns\obj\Debug\net8.0-windows\App.baml
+D:\Projects\Miller Columns\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Projects\Miller Columns\obj\Debug\net8.0-windows\App.g.cs
+D:\Projects\Miller Columns\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Projects\Miller Columns\obj\Debug\net8.0-windows\MillerColumns_MarkupCompile.cache
+D:\Projects\Miller Columns\obj\Debug\net8.0-windows\MillerColumns_MarkupCompile.lref
+D:\Projects\Miller Columns\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Projects\Miller Columns\obj\Debug\net8.0-windows\MillerColumns.g.resources
+D:\Projects\Miller Columns\obj\Debug\net8.0-windows\MillerColumns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Miller Columns\obj\Debug\net8.0-windows\MillerColumns.AssemblyInfoInputs.cache
+D:\Projects\Miller Columns\obj\Debug\net8.0-windows\MillerColumns.AssemblyInfo.cs
+D:\Projects\Miller Columns\obj\Debug\net8.0-windows\MillerColumns.csproj.CoreCompileInputs.cache
+D:\Projects\Miller Columns\obj\Debug\net8.0-windows\MillerColumns.dll
+D:\Projects\Miller Columns\obj\Debug\net8.0-windows\refint\MillerColumns.dll
+D:\Projects\Miller Columns\obj\Debug\net8.0-windows\MillerColumns.pdb
+D:\Projects\Miller Columns\obj\Debug\net8.0-windows\MillerColumns.genruntimeconfig.cache
+D:\Projects\Miller Columns\obj\Debug\net8.0-windows\ref\MillerColumns.dll
+D:\Projects\WorkFlow Tools\Miller Columns\bin\Debug\net8.0-windows\MillerColumns.exe
+D:\Projects\WorkFlow Tools\Miller Columns\bin\Debug\net8.0-windows\MillerColumns.deps.json
+D:\Projects\WorkFlow Tools\Miller Columns\bin\Debug\net8.0-windows\MillerColumns.runtimeconfig.json
+D:\Projects\WorkFlow Tools\Miller Columns\bin\Debug\net8.0-windows\MillerColumns.dll
+D:\Projects\WorkFlow Tools\Miller Columns\bin\Debug\net8.0-windows\MillerColumns.pdb
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Debug\net8.0-windows\App.baml
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Debug\net8.0-windows\App.g.cs
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Debug\net8.0-windows\MillerColumns_MarkupCompile.cache
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Debug\net8.0-windows\MillerColumns_MarkupCompile.lref
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Debug\net8.0-windows\MillerColumns.g.resources
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Debug\net8.0-windows\MillerColumns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Debug\net8.0-windows\MillerColumns.AssemblyInfoInputs.cache
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Debug\net8.0-windows\MillerColumns.AssemblyInfo.cs
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Debug\net8.0-windows\MillerColumns.csproj.CoreCompileInputs.cache
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Debug\net8.0-windows\MillerColumns.dll
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Debug\net8.0-windows\refint\MillerColumns.dll
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Debug\net8.0-windows\MillerColumns.pdb
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Debug\net8.0-windows\MillerColumns.genruntimeconfig.cache
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Debug\net8.0-windows\ref\MillerColumns.dll

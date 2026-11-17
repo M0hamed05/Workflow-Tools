@@ -1,0 +1,29 @@
+==================================================
+Running Automated Verification of All Features...
+==================================================
+
+[TEST 1] Testing Restore Point Creation...
+[PASS] Initial snapshot created successfully at: C:\Users\Mohamed\AppData\Local\ContextMenuManager\RestorePoints\RP_20261025_235132_7d3e66\full_restore.reg
+
+[TEST 2] Testing Add & Toggle Context Menu Item (Feature 1)...
+[PASS] Added test item 'TestItem_Alpha' to both Folder & Background scopes.
+[PASS] Verified item presence in registry: DisplayName='Test Item Alpha', Location=Both
+
+[TEST 3] Testing Custom Cascade Menu Deployment (Feature 2)...
+[PASS] Custom cascade menu deployed with 3 commands (code ., cmd, npx) on Folders and Empty Space!
+
+[TEST 4] Testing Multiple Restore Points...
+[PASS] Multiple restore points created successfully (Total: 7).
+
+[TEST 5] Testing Restore Functionality (Feature 3)...
+[PASS] Successfully restored registry back to: 'Automated Test Baseline'.
+[PASS] Verified test item was cleanly removed upon restoring baseline!
+[PASS] Cleaned up temporary test snapshots.
+
+[TEST 6] Testing Pin / Unpin Snapshot...
+[PASS] Verified pinned snapshot stays at top of list.
+[PASS] Cleaned up pin test snapshot.
+
+==================================================
+ALL 6 VERIFICATION TESTS PASSED SUCCESSFULLY!
+==================================================

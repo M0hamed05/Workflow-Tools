@@ -1,0 +1,44 @@
+D:\Projects\Miller Columns\bin\Release\net8.0-windows\win-x64\MillerColumns.exe
+D:\Projects\Miller Columns\bin\Release\net8.0-windows\win-x64\MillerColumns.deps.json
+D:\Projects\Miller Columns\bin\Release\net8.0-windows\win-x64\MillerColumns.runtimeconfig.json
+D:\Projects\Miller Columns\bin\Release\net8.0-windows\win-x64\MillerColumns.dll
+D:\Projects\Miller Columns\bin\Release\net8.0-windows\win-x64\MillerColumns.pdb
+D:\Projects\Miller Columns\obj\Release\net8.0-windows\win-x64\App.baml
+D:\Projects\Miller Columns\obj\Release\net8.0-windows\win-x64\MainWindow.g.cs
+D:\Projects\Miller Columns\obj\Release\net8.0-windows\win-x64\App.g.cs
+D:\Projects\Miller Columns\obj\Release\net8.0-windows\win-x64\GeneratedInternalTypeHelper.g.cs
+D:\Projects\Miller Columns\obj\Release\net8.0-windows\win-x64\MillerColumns_MarkupCompile.cache
+D:\Projects\Miller Columns\obj\Release\net8.0-windows\win-x64\MillerColumns_MarkupCompile.lref
+D:\Projects\Miller Columns\obj\Release\net8.0-windows\win-x64\MainWindow.baml
+D:\Projects\Miller Columns\obj\Release\net8.0-windows\win-x64\MillerColumns.g.resources
+D:\Projects\Miller Columns\obj\Release\net8.0-windows\win-x64\MillerColumns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Miller Columns\obj\Release\net8.0-windows\win-x64\MillerColumns.AssemblyInfoInputs.cache
+D:\Projects\Miller Columns\obj\Release\net8.0-windows\win-x64\MillerColumns.AssemblyInfo.cs
+D:\Projects\Miller Columns\obj\Release\net8.0-windows\win-x64\MillerColumns.csproj.CoreCompileInputs.cache
+D:\Projects\Miller Columns\obj\Release\net8.0-windows\win-x64\MillerColumns.dll
+D:\Projects\Miller Columns\obj\Release\net8.0-windows\win-x64\refint\MillerColumns.dll
+D:\Projects\Miller Columns\obj\Release\net8.0-windows\win-x64\MillerColumns.pdb
+D:\Projects\Miller Columns\obj\Release\net8.0-windows\win-x64\MillerColumns.genruntimeconfig.cache
+D:\Projects\Miller Columns\obj\Release\net8.0-windows\win-x64\ref\MillerColumns.dll
+D:\Projects\WorkFlow Tools\Miller Columns\bin\Release\net8.0-windows\win-x64\MillerColumns.exe
+D:\Projects\WorkFlow Tools\Miller Columns\bin\Release\net8.0-windows\win-x64\MillerColumns.deps.json
+D:\Projects\WorkFlow Tools\Miller Columns\bin\Release\net8.0-windows\win-x64\MillerColumns.runtimeconfig.json
+D:\Projects\WorkFlow Tools\Miller Columns\bin\Release\net8.0-windows\win-x64\MillerColumns.dll
+D:\Projects\WorkFlow Tools\Miller Columns\bin\Release\net8.0-windows\win-x64\MillerColumns.pdb
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Release\net8.0-windows\win-x64\App.baml
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Release\net8.0-windows\win-x64\MainWindow.g.cs
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Release\net8.0-windows\win-x64\App.g.cs
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Release\net8.0-windows\win-x64\GeneratedInternalTypeHelper.g.cs
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Release\net8.0-windows\win-x64\MillerColumns_MarkupCompile.cache
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Release\net8.0-windows\win-x64\MillerColumns_MarkupCompile.lref
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Release\net8.0-windows\win-x64\MainWindow.baml
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Release\net8.0-windows\win-x64\MillerColumns.g.resources
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Release\net8.0-windows\win-x64\MillerColumns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Release\net8.0-windows\win-x64\MillerColumns.AssemblyInfoInputs.cache
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Release\net8.0-windows\win-x64\MillerColumns.AssemblyInfo.cs
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Release\net8.0-windows\win-x64\MillerColumns.csproj.CoreCompileInputs.cache
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Release\net8.0-windows\win-x64\MillerColumns.dll
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Release\net8.0-windows\win-x64\refint\MillerColumns.dll
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Release\net8.0-windows\win-x64\MillerColumns.pdb
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Release\net8.0-windows\win-x64\MillerColumns.genruntimeconfig.cache
+D:\Projects\WorkFlow Tools\Miller Columns\obj\Release\net8.0-windows\win-x64\ref\MillerColumns.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QtWOUKpiXEY=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\WorkFlow Tools\\Miller Columns\\MillerColumns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohamed\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.33\\microsoft.net.illink.tasks.8.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}

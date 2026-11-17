@@ -1,0 +1,2 @@
+D:\Projects\listConfigure\dist\ContextMenuManager.pdb
+D:\Projects\listConfigure\dist\ContextMenuManager.exe

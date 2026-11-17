@@ -1,0 +1,5 @@
+D:\Projects\listConfigure\publish\ContextMenuManager.exe
+D:\Projects\listConfigure\publish\ContextMenuManager.dll
+D:\Projects\listConfigure\publish\ContextMenuManager.deps.json
+D:\Projects\listConfigure\publish\ContextMenuManager.runtimeconfig.json
+D:\Projects\listConfigure\publish\ContextMenuManager.pdb
