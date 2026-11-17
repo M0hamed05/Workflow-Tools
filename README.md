@@ -15,8 +15,6 @@ A collection of lightweight Windows desktop utilities built to save time and spe
 
 ## 1️⃣ Context Menu Studio
 
-- **Repository:** [context-menu-studio](https://github.com/M0hamed05/context-menu-studio)
-
 ### ✨ Highlights
 
 - **Custom Cascading Submenu:** Group commands like `code .`, `cmd`, `powershell`, and `npm run dev` under a single right-click submenu.
@@ -24,13 +22,15 @@ A collection of lightweight Windows desktop utilities built to save time and spe
 - **Live Preview Simulation:** See how your context menu looks in Windows Explorer before deploying.
 - **1-Click Restore Points:** Automatic registry snapshots before every change for instant recovery.
 
-**🎥 Demo:**
+**🎥 Overview:**
+<img width="1280" height="649" alt="image" src="https://github.com/user-attachments/assets/93783f01-3311-4c9e-aaa8-473720816fdc" />
+<img width="1280" height="655" alt="image" src="https://github.com/user-attachments/assets/fad92a50-17a5-4f35-a77d-e61ae4ff6772" />
+<img width="1280" height="650" alt="image" src="https://github.com/user-attachments/assets/2586a7bb-789b-4783-8ebb-20eb45b581c7" />
+<img width="673" height="566" alt="image" src="https://github.com/user-attachments/assets/dde1a878-f88b-48cd-b740-5e34d19994ae" />
 
 ---
 
 ## 2️⃣ Miller Columns Explorer
-
-- **Repository:** [miller-columns-explorer](https://github.com/M0hamed05/miller-columns-explorer)
 
 ### ✨ Highlights
 
@@ -39,10 +39,7 @@ A collection of lightweight Windows desktop utilities built to save time and spe
 - **Dark & Light Themes:** Auto-detects Windows system theme with a collapsible sidebar.
 - **Ultra-Lightweight:** Zero external dependencies (~280 KB standalone executable).
 
-**🎥 Demo:**
+**🎥 Overview:**
+<img width="1920" height="1025" alt="image" src="https://github.com/user-attachments/assets/4b455374-eaa9-4403-9765-67840d30dd46" />
+<img width="1920" height="1012" alt="image" src="https://github.com/user-attachments/assets/148f9664-d814-456a-b07f-b3ba5f052767" />
 
----
-
-## 📄 License
-
-MIT License
